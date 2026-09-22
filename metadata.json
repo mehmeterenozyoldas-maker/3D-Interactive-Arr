@@ -1,0 +1,6 @@
+{
+  "name": "Bioluminescent Tentacle Simulation",
+  "description": "Real-time interactive 3D bioluminescent tentacle sea anemone simulation with UnrealBloom and organic repulsion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
